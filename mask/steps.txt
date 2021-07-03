@@ -1,0 +1,14 @@
+#### TO CREATE NEW VIRTUALENV####
+virtualenv -p python3 venv
+cd venv
+cd Scripts
+activate.bat
+cd ..
+pip install -r requirements.txt
+#################################
+
+cd venv
+cd Scripts
+activate.bat
+cd ..
+
